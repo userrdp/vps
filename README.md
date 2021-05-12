@@ -1,1 +1,1 @@
-sudo apt-get updat
+sudo apt-get update
