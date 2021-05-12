@@ -1,1 +1,1 @@
-# vps
+sudo apt-get updat
